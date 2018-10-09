@@ -1,0 +1,54 @@
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,700italic,700);
+
+html, body {
+    text-align: center;
+    min-width: 260px;
+    color: #333;
+}
+
+#main {
+    margin: 30px auto;
+    padding: 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    background: #eed;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+}
+
+#img-div {
+    margin: -5px;
+    margin-top: 20px;
+    width: 100%;
+    background: #eed;
+}
+
+#img-caption {
+    margin: 20px;
+}
+
+#headline {
+    margin-top: 75px;
+}
+
+ul {
+    max-width: 500px;
+    margin: 0px auto;
+    text-align: left;
+}
+
+li {
+    margin: 15px;
+}
+
+
+
+
+
+
