@@ -47,7 +47,11 @@ li {
     margin: 15px;
 }
 
-
+blockquote {
+    font-style: italic;
+    color: #3B1D76;
+    margin: 50px;
+}
 
 
 
