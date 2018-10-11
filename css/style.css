@@ -51,6 +51,11 @@ blockquote {
     font-style: italic;
     color: #3B1D76;
     margin: 50px;
+    font-size: 20px;
+}
+
+h4 {
+    margin-bottom: 50px;
 }
 
 
